@@ -1,2 +1,0 @@
-# CRUDwithReducersHooks
-Created with CodeSandbox
